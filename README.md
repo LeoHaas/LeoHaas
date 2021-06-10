@@ -1,8 +1,3 @@
-- 👋 Oi, Sou o Leo
-- 👀 Tenho interesse em Front e Back end
-- 
-
-
 - 👋🏻 Hi, I’m Leo
 - 👀 I’m interested in Front and Back end
 - 👨🏻‍💻 I’m currently learning HTML, CSS and JavaScript. But I'm still going to study other languages
