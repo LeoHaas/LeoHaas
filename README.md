@@ -4,8 +4,9 @@
 - 💎 I'm looking to improve my knowledge in the area and be a good programmer
 - 🎮 I really enjoy playing video games but I don't intend to work in the area, I just enjoy
 - 📫 How to contact me by email: leonardohaasribeiro@gmail.com
+
 <br>
-<br>
+
 - 👋🏻 Oi, eu sou Leo
 - 👀 Estou interessado em Front e Back-end
 - 👨🏻‍💻 Atualmente, estou aprendendo HTML, CSS e JavaScript. Mas ainda vou estudar outras linguagens
