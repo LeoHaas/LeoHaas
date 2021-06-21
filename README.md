@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front and Back-end
 - 👨🏻‍💻 I’m currently learning HTML, CSS and JavaScript. But I'm still going to study other languages
 - 💎 I'm looking to improve my knowledge in the area and be a good programmer
-- 🎮 I really enjoy playing video games but I don't intend to work in the area, I just enjoy
+- 🎮 I really enjoy playing video games but I don't intend to work in the area
 - 📫 How to contact me by email: leonardohaasribeiro@gmail.com
 
 <br>
@@ -11,7 +11,7 @@
 - 👀 Estou interessado em Front e Back-end
 - 👨🏻‍💻 Atualmente, estou aprendendo HTML, CSS e JavaScript. Mas ainda vou estudar outras linguagens
 - 💎 Procuro aprimorar meus conhecimentos na área e ser um bom programador
-- 🎮 Gosto muito de jogar videogame, mas não pretendo trabalhar na área, só gosto
+- 🎮 Gosto muito de jogar videogame, mas não pretendo trabalhar na área
 - 📫 Como entrar em contato comigo por e-mail: leonardohaasribeiro@gmail.com
 
 
